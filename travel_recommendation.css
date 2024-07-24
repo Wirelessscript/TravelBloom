@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav {
+    background-color: #07e7f7;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: rgb(255, 0, 0)
+}
+nav ul {
+    list-style-type: none;
+}
+nav h1 {
+    color: black;
+    text-align: center;
+    padding: none;
+}
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+nav a {
+    text-decoration: none;
+    color: #ff0000;
+    font-weight: bold;
+    font-size: larger;
+}
+body {
+    background-image: url(https://img.freepik.com/free-photo/airplane-flying-mountain-range-sunset-generated-by-ai_188544-22027.jpg?t=st=1721772461~exp=1721776061~hmac=0e0471c6f9dbd6abaaac6d8e9777fd077f73037f365ac5ebb1061664dd30c0c2&w=1380);
+    background-size: 2000px 1000px;
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+div h1 {
+    color: white;
+    text-align: left;
+    font-size: xx-large;
+    padding-top: 50px;
+    padding-left: 150px;
+
+}
+p {
+    color: white;
+    text-align: left;
+    font-size: xx-large;
+    padding-top: 50px;
+    padding-left: 150px;
+}
